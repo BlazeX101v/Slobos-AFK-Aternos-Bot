@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BlazeX101V.aternos.me:46462",
+    "ip": "BlazeX101V.aternos.me",
     "port": 46462,
     "version": "1.21.1",
     "try-creative": false
